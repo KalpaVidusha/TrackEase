@@ -1,0 +1,28 @@
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#4A90E2</color>
+    <color name="primary_variant">#357ABD</color>
+    <color name="secondary">#F5A623</color>
+
+    <!-- Background Colors -->
+    <color name="background">#F2F2F2</color>
+    <color name="surface">#FFFFFF</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#333333</color>
+    <color name="text_secondary">#757575</color>
+
+    <!-- Status Colors -->
+    <color name="success">#7ED321</color>
+    <color name="warning">#F8E71C</color>
+    <color name="error">#F44336</color>
+
+    <!-- Accent Colors -->
+    <color name="accent">#FF4081</color>
+    <color name="divider">#E0E0E0</color>
+
+    <!-- Additional Shades -->
+    <color name="light_blue">#BBDEFB</color>
+    <color name="light_green">#C8E6C9</color>
+    <color name="dark_gray">#212121</color>
+</resources>
